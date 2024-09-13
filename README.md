@@ -96,12 +96,12 @@ cd storage
 
 cd downloads
 
-git clone https://github.com/Zulkiflimok/linux02
+git clone https://github.com/Zulkiflimok/Update
 
-cd linux02
+cd Z
 
-unzip linux02.zip
+unzip Z.zip
 
-cd linux02
+cd Z
 
-python3 linux02.py
+python3 zul.py
