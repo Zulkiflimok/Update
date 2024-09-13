@@ -1,4 +1,8 @@
 # FAIL LINUX02
+
+<img alt="Sample.jpg" src= "https://i.ibb.co/QNFxN8N/1652366614290.jpg">
+<p>
+
 # ADD MY LINE
 
 # BOT LINE PYTHON 3
