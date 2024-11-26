@@ -38,6 +38,28 @@ THANKS TO ALL MASTAH
 
 TEAM TERMUX
 
+╭────────────────
+│• OPEN  BOTS TEAM TERMUX
+├────────────────
+├ ▣ line.me/ti/p/~zul.1.02
+├ ▣
+├ ▣ BOT GOLANG 1 BULANG 10K
+├ ▣
+├ ▣7 ASIS 2 AJS 10 RIBUH
+├ ▣
+├ ▣ BOT SB GRATIS
+├ ▣
+├ ▣ BOT KUIS GRATIS
+├ ▣
+├ ▣ BOT PUBLIK GRATIS
+├ ▣
+├ ▣ line.me/ti/p/~zul.1.02
+├ ▣
+├ ▣ Wa 0857-5707-6639
+├ ▣
+├ ▣ https://youtube.com/@zulkiflimokoagow7511?si=8s6uELcJd__b_Fjb
+╰────────────────
+
 CRATOR : ZULKIFLI MOKOAGOW
 
 #INSTALLAN VPS && TERMUX
